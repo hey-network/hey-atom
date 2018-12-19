@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "👋 Hey! Ask anything about your code.",
+        "command": "hey-atom:sayHey"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "hey-atom",
+          "submenu": [
+            {
+              "label": "👋 Hey! Ask anything about your code.",
+              "command": "hey-atom:sayHey"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
