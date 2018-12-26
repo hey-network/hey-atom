@@ -12,12 +12,11 @@ Visual Studio Code: https://marketplace.visualstudio.com/items?itemName=hey.vsco
 
 Atom: https://atom.io/packages/hey
 
-## Requirements
+## Join the community
 
-None.
+Want to contribute, help or ask questions?
 
-## Known Issues
+https://t.me/heysociety
 
-None.
-
-## Release Notes
+## Read more about the project
+https://manifesto.hey.network
