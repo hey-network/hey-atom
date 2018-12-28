@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "hey-atom:sayHey"
   },
-  "repository": "https://github.com/nbstr/hey-atom",
+  "repository": "https://github.com/hey-network/hey-atom.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
