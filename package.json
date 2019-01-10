@@ -2,7 +2,7 @@
   "name": "hey",
   "displayName": "Hey",
   "main": "./lib/hey.atom",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "Ask code-related questions right from your IDE. Share code snippets and find help the fastest way possible.",
   "keywords": [],
   "activationCommands": {
