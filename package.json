@@ -3,7 +3,7 @@
   "displayName": "Hey",
   "main": "./lib/hey.atom",
   "version": "1.1.2",
-  "description": "Ask code-realted questions right from your IDE.",
+  "description": "Ask code-related questions right from your IDE. Share code snippets and find help the fastest way possible.",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "hey-atom:sayHey"
